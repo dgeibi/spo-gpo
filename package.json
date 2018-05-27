@@ -19,6 +19,10 @@
     "husky": "^0.14.3",
     "prettier": "^1.12.1"
   },
+  "files": [
+    "polyfill.js",
+    "index.js"
+  ],
   "dependencies": {},
   "repository": {
     "type": "git",
