@@ -1,7 +1,7 @@
 {
   "name": "spo-gpo",
   "version": "1.0.0",
-  "description": "A small polyfill for Object.setprototypeof and Object.getPrototypeOf",
+  "description": "A small polyfill for Object.setPrototypeOf and Object.getPrototypeOf",
   "main": "index.js",
   "scripts": {
     "format": "prettier --write \"*.{js,md}\"",
