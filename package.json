@@ -1,0 +1,31 @@
+{
+  "name": "spo-gpo",
+  "version": "1.0.0",
+  "description": "A small polyfill for Object.setprototypeof and Object.getPrototypeOf",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"*.{js,md}\"",
+    "precommit": "npm run -s format"
+  },
+  "author": "dgeibi",
+  "keywords": [
+    "setprototypeof",
+    "getprototypeof",
+    "polyfill",
+    "object"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "prettier": "^1.12.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgeibi/spo-gpo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dgeibi/spo-gpo/issues"
+  },
+  "homepage": "https://github.com/dgeibi/spo-gpo#readme"
+}
